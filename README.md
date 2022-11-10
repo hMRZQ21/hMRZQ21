@@ -1,7 +1,8 @@
-### Hi there 👋
+### Well, hello there! 🫡
+My name is Hussam Marzooq and I'm an aspiring **software engineer/data analyst**.
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hussam-m/)
 <!--
-**hMRZQ21/hMRZQ21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
