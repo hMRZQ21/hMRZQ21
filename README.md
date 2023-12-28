@@ -1,21 +1,41 @@
-### Well, hello there! 🫡
+### Hi there, I'm Hussam 🫡 <br> <!-- link to porfolio site -->
 My name is Hussam Marzooq and I'm an aspiring **software engineer/data analyst**.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hussam-m/)
 <!--
-
-Here are some ideas to get you started:
+I'm a Husband, Father, Developer, and Teacher!
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything [laughing emojis]
+- 👯 I’m looking to collaborate with other developers on projects/jobs
+- ⚡ Fun fact: I love cooking and gaming
+
+- 2024 goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
+<hr>
+📫 Connect with me: <br>
+[<img align="left" alt="hMRZQ21 | LinkedIn" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons.svg"/>][linkedin]
+<!-- portfolio, YT -->
+<br><hr>
 
+### Languages and Tools: <br>
+Python, C/C++, Java, JavaScript, React, SQL, Dart, R, HTML/CSS, Scheme, LaTeX, Q#,
+Flutter, VScode, Git(Hub), Jupyter Notebook, Google Colab, Firebase, Microsoft Azure, Windows, OSX, Linux (Ubuntu), Pandas, Scikit-Learn, Tensorflow,
+<!-- others missing too. use images for them -->
 
+<br><hr>
+<img align="left" alt="hMRZQ21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true"/>
+
+[linkedin]: https://www.linkedin.com/in/hussam-m/
+<!-- ### Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- YT video for GitHub readme customizations:
+https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
+
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hMRZQ21&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hMRZQ21&show_icons=true&theme=transparent)
 -->
