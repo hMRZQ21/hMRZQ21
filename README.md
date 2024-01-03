@@ -15,7 +15,8 @@ I'm a Husband, Father, Developer, and Teacher!
 -->
 <hr>
 📫 Connect with me: <br>
-<img align="left" alt="hMRZQ21 | LinkedIn" width="22px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons.svg"/>[linkedin]
+<img align="left" alt="hMRZQ21 | LinkedIn" width="22px" src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg"/>
+<!-- (linkedin) -->
 <!-- portfolio, YT -->
 <br><hr>
 
