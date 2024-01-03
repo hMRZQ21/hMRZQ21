@@ -14,8 +14,8 @@ I'm a Husband, Father, Developer, and Teacher!
 - 💬 Ask me about ...
 -->
 <hr>
-📫 Connect with me: <br>
-<img align="left" alt="hMRZQ21 | LinkedIn" width="22px" src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg"/>
+🌐 Connect with me: <br>
+[![LinkedIn](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png)](https://www.linkedin.com/in/hussam-m/){: .align-left width="22px" alt="hMRZQ21 | LinkedIn"}
 <!-- (linkedin) -->
 <!-- portfolio, YT -->
 <br><hr>
@@ -28,7 +28,6 @@ Flutter, VScode, Git(Hub), Jupyter Notebook, Google Colab, Firebase, Microsoft A
 <br><hr>
 <img align="left" alt="hMRZQ21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true"/>
 
-[linkedin]: https://www.linkedin.com/in/hussam-m/
 <!-- ### Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
