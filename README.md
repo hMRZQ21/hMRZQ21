@@ -15,8 +15,6 @@ I'm a Husband, Father, Developer, and Teacher!
 -->
 <hr>
 🌐 Connect with me: <br>
-[![LinkedIn](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png)](https://www.linkedin.com/in/hussam-m/)
-
 <a href="https://www.linkedin.com/in/hussam-m" target="_blank">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="hMRZQ21's LinkedIn" width="22" align="left"/>
 </a>
