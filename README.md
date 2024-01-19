@@ -17,7 +17,6 @@ I'm a Husband, Father, Developer, and Teacher!
 
 ### Connect with me: 
 <div>
-  <style> a {text-decoration: none;} </style>
   <a 
     href="https://www.linkedin.com/in/hussam-m">
     <img 
