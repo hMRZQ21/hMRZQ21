@@ -3,9 +3,9 @@
 My name is Hussam Marzooq and I'm an aspiring **software engineer/data analyst**.
 
 - 🔭 I’m currently working on [Media Grapher]() and [Auto Groove Grab]()
-- 🌱 I’m currently learning everything! [laughing emojis]
+- 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate with other developers on projects/jobs
-- 2024 goals: Contribute more to Open Source projects
+- 🥅 2024 goals is trying to contribute more to Open Source projects
 
 <!-- -----------------------------------------
 I'm a Husband, Father, Developer, and Teacher!
@@ -13,9 +13,10 @@ I'm a Husband, Father, Developer, and Teacher!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 ------------------------------------->
-
 <hr>
-🌐 Connect with me: 
+
+### Connect with me: 
+<style> a {text-decoration: none;} </style>
 <div>
   <a 
     href="https://www.linkedin.com/in/hussam-m">
@@ -27,21 +28,23 @@ I'm a Husband, Father, Developer, and Teacher!
       width="25">
   </a>
   <a 
+    href="">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/White_Globe_Icon.png/1200px-White_Globe_Icon.png" 
+      alt="Hussam Marzooq's Portfolio" 
+      style="margin-right: 5px;"
+      target="_blank"
+      width="25" >
+  </a>
+  <a 
     href="https://www.youtube.com/channel/UC4EbCGA-sDyLAOKku9CFsMQ">
     <img 
-      src="https://static-00.iconduck.com/assets.00/youtube-icon-512x359-dyeyi1hm.png" alt="Hussam Marzooq's YouTube Page" 
+      src="https://static-00.iconduck.com/assets.00/youtube-icon-512x359-dyeyi1hm.png" 
+      alt="Hussam Marzooq's YouTube Page" 
+      style="margin-right: 5px;"
       target="_blank"
       width="35">
   </a>
-  <a 
-    href="">
-    <img 
-      src="https://github.com/hMRZQ21/hMRZQ21/blob/main/assets/portfolio-icon.jpg" 
-      alt="Hussam Marzooq's Portfolio" 
-      target="_blank"
-      width="30" >
-  </a>
-  <!-- portfolio site -->
 </div>
 
 <!-- portfolio, YT -->
