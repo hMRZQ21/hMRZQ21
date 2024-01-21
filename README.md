@@ -143,7 +143,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="Markdown" height ="50"/>
   </a>     
   </a href="https://firebase.google.com/docs" target="_blank"> <!-- Firebase -->
-    <img style="margin: 10px" src="https://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" alt="Firebase" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="Firebase" height ="50"/>
   </a>    
   </a href="https://docs.anaconda.com/index.html" target="_blank"> <!-- Anaconda -->
     <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="Anaconda" height ="50"/>
