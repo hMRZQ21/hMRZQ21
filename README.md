@@ -79,7 +79,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" alt="MacOS" height ="50"/>
   </a>  
   <a href="https://www.python.org/" target="_blank"> <!-- Python -->
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height ="50"/>
   </a>  
   <a href="https://www.java.com/" target="_blank"> <!-- Java -->
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height ="50"/>
@@ -97,13 +97,13 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height ="50"/>
   </a>
   <a href="https://www.gnu.org/software/bash/"  target="_blank"> <!-- BASH -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="Bash" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height ="50"/>
   </a>
   </a href="https://www.learn-c.org/" target="_blank"> <!-- C -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height ="50"/>
   </a> 
   </a href="https://cplusplus.com/" target="_blank"> <!-- C++ -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height ="50"/>
   </a> 
   </a href="https://www.r-project.org/"  target="_blank"> <!-- R -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R" height ="50"/>
@@ -136,7 +136,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" alt="Visual Studio" height ="50"/>
   </a>  
   </a href="https://docs.jupyter.org/en/latest/" target="_blank"> <!-- Jupyter Notebook -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height ="50"/>
   </a>  
   </a href="https://www.markdownguide.org/" target="_blank"> <!-- Markdown -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="Markdown" height ="50"/>
@@ -158,7 +158,10 @@ I'm a Husband, Father, Developer, and Teacher!
   </a>         
   </a href="https://www.tensorflow.org/api_docs" target="_blank"> <!-- Tensorflow -->
     <img style="margin: 10px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="Tensorflow" height ="50"/>
-  </a>                
+  </a> 
+  </a href="https://numpy.org/doc/" target="_blank"> <!-- NumPy -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height ="50"/>
+  </a>
 </div>
 
 <!-- ----------------------- -->
