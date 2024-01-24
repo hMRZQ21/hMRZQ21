@@ -70,7 +70,11 @@ I'm a Husband, Father, Developer, and Teacher!
 <div align="center">  
   <a 
     href="https://www.linux.org/" target="_blank"> <!-- Linux -->
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height ="50"/>
+  </a>  
+  <a 
+    href="https://www.linux.org/" target="_blank"> <!-- Ubuntu -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height ="50"/>
   </a>  
   </a href="https://learn.microsoft.com/en-us/windows/" target="_blank"> <!-- Windows -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png" alt="Windows" height ="50"/>
@@ -79,22 +83,28 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" alt="MacOS" height ="50"/>
   </a>  
   <a href="https://www.python.org/" target="_blank"> <!-- Python -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height ="50"/>
   </a>  
   <a href="https://www.java.com/" target="_blank"> <!-- Java -->
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height ="50"/>
   </a>  
   <a href="https://github.com/" target="_blank"> <!-- Git -->
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height ="50"/>
   </a>  
   </a href="https://docs.github.com/en" target="_blank"> <!-- GitHub -->
     <img style="margin: 10px" src="https://www.cloudfoundry.org/wp-content/uploads/github-outline-1.png" alt="GitHub" height ="50"/>
   </a>    
   <a href="https://www.mysql.com/" target="_blank"> <!-- MySQL -->
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="65"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
   </a>  
-  <a href="https://www.postgresql.org/" target="_blank"> <!-- Postgres -->
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height ="50"/>
+  <a href="https://www.postgresql.org/" target="_blank"> <!-- PostgreSQL -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height ="50"/>
+  </a>
+  <a href="https://docs.docker.com/" target="_blank"> <!-- Docker -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height ="55"/>
+  </a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank"> <!-- SQLite -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height ="50"/>
   </a>
   <a href="https://www.gnu.org/software/bash/"  target="_blank"> <!-- BASH -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height ="50"/>
@@ -106,34 +116,40 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height ="50"/>
   </a> 
   </a href="https://www.r-project.org/"  target="_blank"> <!-- R -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Studio" height ="50"/>
   </a>
   </a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <!-- HTML -->
-    <img style="margin: 10px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height ="50"/>
   </a>    
   </a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <!-- CSS -->
-    <img style="margin: 10px" src="https://grafikart.fr/uploads/icons/css.svg" alt="CSS" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height ="50"/>
   </a>
   </a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <!-- JS -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height ="50"/>
   </a>    
   </a href="https://react.dev/" target="_blank"> <!-- React -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height ="50"/>
   </a> 
   </a href="https://docs.flutter.dev/" target="_blank"> <!-- Flutter -->
-    <img style="margin: 10px" src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height ="50"/>
   </a>
   </a href="https://dart.dev/" target="_blank"> <!-- Dart -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height ="50"/>
   </a> 
+  </a href="https://developer.apple.com/documentation/xcode" target="_blank"> <!-- XCode -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="XCode" height ="55"/>
+  </a>
+  </a href="https://docs.opencv.org/4.x/" target="_blank"> <!-- OpenCV -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height ="55"/>
+  </a>
   </a href="https://www.latex-project.org/help/documentation/" target="_blank"> <!-- LaTeX -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="LaTeX" height ="50"/>
   </a>     
   </a href="https://code.visualstudio.com/docs" target="_blank"> <!-- VSCode -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height ="50"/>
   </a>    
   </a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank"> <!-- Visual Studio -->
-    <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" alt="Visual Studio" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height ="50"/>
   </a>  
   </a href="https://docs.jupyter.org/en/latest/" target="_blank"> <!-- Jupyter Notebook -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height ="50"/>
@@ -142,13 +158,13 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="Markdown" height ="50"/>
   </a>     
   </a href="https://firebase.google.com/docs" target="_blank"> <!-- Firebase -->
-    <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="Firebase" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height ="50"/>
   </a>    
   </a href="https://docs.anaconda.com/index.html" target="_blank"> <!-- Anaconda -->
-    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="Anaconda" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height ="50"/>
   </a>
   </a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank"> <!-- Microsoft Azure -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" height ="50"/>
   </a>
   </a href="https://pandas.pydata.org/docs/" target="_blank"> <!-- Pandas -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" height ="50"/>
@@ -157,10 +173,13 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height ="50"/>
   </a>         
   </a href="https://www.tensorflow.org/api_docs" target="_blank"> <!-- Tensorflow -->
-    <img style="margin: 10px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="Tensorflow" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" height ="50"/>
   </a> 
   </a href="https://numpy.org/doc/" target="_blank"> <!-- NumPy -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height ="50"/>
+  </a>
+  </a href="https://www.kaggle.com/docs" target="_blank"> <!-- Kaggle -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height ="55"/>
   </a>
 </div>
 
