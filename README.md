@@ -1,7 +1,7 @@
 ## Hi There, I'm Hussam 🫡 <br> 
 My name is Hussam Marzooq and I'm an aspiring **software engineer/data analyst** 👨‍💻
 
-- 🔭 I’m currently working on [Media Grapher](https://github.com/hMRZQ21/MediaGrapher) and [Auto Groove Grab](https://github.com/hMRZQ21/AutoGrooveGrab).
+- 🔭 I’m currently working on [Vera_Deployed](https://github.com/hMRZQ21/VERA_Deployed).
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate with other developers on projects/jobs.
 - 🥅 2024 goals is trying to contribute more to Open 
