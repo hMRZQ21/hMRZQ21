@@ -140,11 +140,8 @@ I'm a Husband, Father, Developer, and Teacher!
   <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank"> <!-- MS Visual Studio -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height ="50"/>
   </a>
-  <a href="https://cursor.sh/" target="_blank"> <!-- Cursor -->
-    <img style="margin: 10px" src="https://cursor.sh/logo.png" alt="Cursor" height="50"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank"> <!-- Android Studio -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50"/>
+  <a href="https://www.cursor.com/" target="_blank"> <!-- Cursor -->
+    <img style="margin: 10px" src="https://www.cursor.com/assets/videos/logo/placeholder-logo.webp" alt="Cursor" height="50"/>
   </a>
 
   <!-- Data Science & ML -->
@@ -174,7 +171,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="50"/>
   </a>
   <a href="https://streamlit.io/" target="_blank"> <!-- Streamlit -->
-    <img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" height="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="50"/>
   </a>
 
   <!-- Mobile Development -->
@@ -182,8 +179,11 @@ I'm a Husband, Father, Developer, and Teacher!
   <a href="https://docs.flutter.dev/" target="_blank"> <!-- Flutter -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height ="50"/>
   </a>
-  <a href="https://developer.apple.com/documentation/xcode" target="_blank"> <!-- XCode -->
+  <a href="https://developer.apple.com/xcode/" target="_blank"> <!-- XCode -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="XCode" height ="55"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank"> <!-- Android Studio -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50"/>
   </a>
 
   <!-- Other Tools -->
@@ -191,21 +191,21 @@ I'm a Husband, Father, Developer, and Teacher!
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <!-- Bash -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height ="50"/>
   </a>
-  <a href="https://www.latex-project.org/help/documentation/" target="_blank"> <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="_blank"> <!-- LaTeX -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="LaTeX" height ="50"/>
   </a>
   <a href="https://www.markdownguide.org/" target="_blank"> <!-- Markdown -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="Markdown" height ="50"/>
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <!-- Raspberry Pi -->
-    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" height="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50"/>
   </a>
   <a href="https://www.perplexity.ai/" target="_blank"> <!-- Perplexity -->
     <img style="margin: 10px" src="https://www.perplexity.ai/favicon.ico" alt="Perplexity" height="50"/>
   </a>
   <a href="https://www.notion.so/" target="_blank"> <!-- Notion -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Notion_app_logo.png/1024px-Notion_app_logo.png" alt="Notion" height="50"/>
-  </a>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" height="50"/>
+  </a>  
 </div>
 
 <!-- ----------------------- -->
