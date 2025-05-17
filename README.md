@@ -1,6 +1,5 @@
-## Hi There, I'm Hussam 🫡 <br> 
-My name is Hussam Marzooq and I'm an aspiring **software engineer/data analyst** 👨‍💻
-
+<!-- ## Hi There, I'm Hussam 🫡 <br> 
+My name is Hussam Marzooq and I'm an aspiring **software engineer/data analyst** 👨‍💻 -->
 <!--
 - 🔭 I'm currently working on ... <!-- [Vera_Deployed](https://github.com/hMRZQ21/VERA_Deployed). 
 - 🌱 I'm currently learning everything!
@@ -14,7 +13,7 @@ I'm a Husband, Father, Developer, and Teacher!
 - 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 ------------------------------------->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1250&width=1000&lines=%F0%9F%91%8BWelcome+I'm+Hussam+Marzooq!%F0%9F%91%8B;I'm+an+aspiring+data+scientist+%F0%9F%95%B5%EF%B8%8F+who+also+%E2%9D%A4%EF%B8%8F+software+engineering+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80Be+productive!+Be+creative!+Be+innovative!%F0%9F%9A%80;%F0%9F%93%88Your+only+limit+is+you!%F0%9F%93%88)](https://github.com/hMRZQ21/)
 ### Connect with me on [Linktr.ee](https://linktr.ee/Hussam_x)!
 
 <!-- GITHUB STATS SECTION -->
