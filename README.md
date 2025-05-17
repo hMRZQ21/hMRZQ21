@@ -62,7 +62,7 @@ I'm a Husband, Father, Developer, and Teacher!
   <!-- Programming Languages -->
   <h3>Programming Languages</h3>
   <a href="https://www.python.org/" target="_blank"> <!-- Python -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height ="50"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height ="50"/>
   </a>  
   <a href="https://cplusplus.com/" target="_blank"> <!-- C++ -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height ="50"/>
