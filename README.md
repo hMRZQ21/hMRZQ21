@@ -140,7 +140,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" height="50"/>
   </a>
 
-    <!-- Development Tools -->
+  <!-- Development Tools -->
   <h3>Development Tools</h3>
   <a href="https://github.com/" target="_blank"> <!-- Git -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height ="50"/>
