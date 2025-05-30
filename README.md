@@ -13,7 +13,7 @@ I'm a Husband, Father, Developer, and Teacher!
 - 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 ------------------------------------->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1250&width=1000&lines=%F0%9F%91%8BWelcome+I'm+Hussam+Marzooq!%F0%9F%91%8B;I'm+an+aspiring+data+scientist+%F0%9F%95%B5%EF%B8%8F+who+also+%E2%9D%A4%EF%B8%8F+software+engineering+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80Be+productive!+Be+creative!+Be+innovative!%F0%9F%9A%80;%F0%9F%93%88Your+only+limit+is+you!%F0%9F%93%88)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1250&width=1000&lines=%F0%9F%91%8BWelcome+I'm+Hussam+Marzooq!%F0%9F%91%8B;I'm+an+aspiring+data+scientist+%F0%9F%95%B5%EF%B8%8F+who+also+%E2%9D%A4%EF%B8%8F+software+engineering+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80Be+productive!+Be+creative!+Be+innovative!%F0%9F%9A%80;%F0%9F%93%88Your+only+limit+is+you!%F0%9F%93%88)](https://github.com/hMRZQ21/)
 ### Connect with me on [Linktr.ee](https://linktr.ee/Hussam_x)!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
@@ -37,8 +37,6 @@ I'm a Husband, Father, Developer, and Teacher!
 
 <!-- LANGUAGES AND TOOLS SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Languages & Tools:**
-
-<!-- > **Note:** All icon links and their sources are maintained in [assets/icon_links.md](assets/icon_links.md) for easy updates and maintenance. -->
 
 <div align="center">
   <!-- Operating Systems -->
@@ -113,7 +111,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" height ="50"/>
   </a>
   <a href="https://keras.io/" target="_blank"> <!-- Keras -->
-    <img style="margin: -5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras" height="85"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" height="50"/>
   </a>
   <a href="https://pytorch.org/" target="_blank"> <!-- PyTorch -->
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50"/>
