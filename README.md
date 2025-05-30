@@ -13,26 +13,27 @@ I'm a Husband, Father, Developer, and Teacher!
 - 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 ------------------------------------->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1250&width=1000&lines=%F0%9F%91%8BWelcome+I'm+Hussam+Marzooq!%F0%9F%91%8B;I'm+an+aspiring+data+scientist+%F0%9F%95%B5%EF%B8%8F+who+also+%E2%9D%A4%EF%B8%8F+software+engineering+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80Be+productive!+Be+creative!+Be+innovative!%F0%9F%9A%80;%F0%9F%93%88Your+only+limit+is+you!%F0%9F%93%88)](https://github.com/hMRZQ21/)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1250&width=1000&lines=%F0%9F%91%8BWelcome+I'm+Hussam+Marzooq!%F0%9F%91%8B;I'm+an+aspiring+data+scientist+%F0%9F%95%B5%EF%B8%8F+who+also+%E2%9D%A4%EF%B8%8F+software+engineering+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9A%80Be+productive!+Be+creative!+Be+innovative!%F0%9F%9A%80;%F0%9F%93%88Your+only+limit+is+you!%F0%9F%93%88)
 ### Connect with me on [Linktr.ee](https://linktr.ee/Hussam_x)!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
 <!-- GITHUB STATS SECTION -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Github Stats** 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ></a>
 
 <p align="center">
-  <a href="https://github.com/hMRZQ21/">
+  <a href="https://github.com/hMRZQ21/">    <!-- Contributions -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hMRZQ21&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="500"/>
   </a>
-  <a href="https://github.com/hMRZQ21/">
+  <a href="https://github.com/hMRZQ21/">    <!-- Github Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" width="500">
   </a>
-  <a href="https://github.com/hMRZQ21/">
+  <a href="https://github.com/hMRZQ21/">    <!-- Top Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hMRZQ21&hide_progress=true&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="450">
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
 <!-- LANGUAGES AND TOOLS SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Languages & Tools:**
@@ -75,6 +76,9 @@ I'm a Husband, Father, Developer, and Teacher!
   <a href="https://dart.dev/" target="_blank"> <!-- Dart -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height ="50"/>
   </a>
+  <a href="https://racket-lang.org/" target="_blank"> <!-- Racket -->
+    <img style="margin: 10px" src="https://racket-lang.org/img/racket-logo.svg" alt="Racket" height="50"/>
+  </a>
 
 <!-- Databases -->
   <h3>Databases</h3>
@@ -109,7 +113,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" height ="50"/>
   </a>
   <a href="https://keras.io/" target="_blank"> <!-- Keras -->
-    <img style="margin: 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras" height="75"/>
+    <img style="margin: -5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras" height="85"/>
   </a>
   <a href="https://pytorch.org/" target="_blank"> <!-- PyTorch -->
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50"/>
@@ -131,6 +135,12 @@ I'm a Husband, Father, Developer, and Teacher!
   </a>
     <a href="https://www.anaconda.com/" target="_blank"> <!-- Anaconda -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50"/>
+  </a>
+  <a href="https://www.nltk.org/" target="_blank"> <!-- NLTK -->
+    <img style="margin: 5px" src="https://miro.medium.com/v2/resize:fit:888/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" height="60"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank"> <!-- Langchain -->
+    <img style="margin: 10px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="Langchain" height="50"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank"> <!-- R -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Studio" height ="50"/>
@@ -198,6 +208,9 @@ I'm a Husband, Father, Developer, and Teacher!
 
   <!-- Web Development -->
   <h3>Web Development</h3>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <!-- Flask -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <!-- HTML -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height ="50"/>
   </a>    
@@ -241,6 +254,8 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50"/>
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <!-- ----------------------- -->
 
 <!-- GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile:
