@@ -119,6 +119,9 @@ I'm a Husband, Father, Developer, and Teacher!
   <a href="https://colab.research.google.com/" target="_blank"> <!-- Google Colab -->
     <img style="margin: 10px" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="50"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank"> <!-- Jupyter Notebook -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="50"/>
+  </a>
   <a href="https://www.kaggle.com/docs" target="_blank"> <!-- Kaggle -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height ="55"/>
   </a>
