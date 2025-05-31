@@ -198,7 +198,7 @@ I'm a Husband, Father, Developer, and Teacher!
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" height="50"/>
   </a>
   <a href="https://www.netlify.com/" target="_blank"> <!-- Netlify -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" height="55"/>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" height="50"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank"> <!-- Firebase -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="50"/>
