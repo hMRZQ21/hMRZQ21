@@ -134,6 +134,9 @@ I'm a Husband, Father, Developer, and Teacher!
   <a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
   </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> <!-- Seaborn -->
+    <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50"/>
+  </a>
     <a href="https://www.anaconda.com/" target="_blank"> <!-- Anaconda -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50"/>
   </a>
