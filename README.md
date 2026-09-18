@@ -20,7 +20,7 @@
 <img src="https://github-readme-streak-stats-gold-pi-26.vercel.app?user=hMRZQ21&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="500"/>
 </a>
 <a href="https://github.com/hMRZQ21/"> <!-- Github Stats -->
-<img src="https://github-stats-extended-api-gold.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true&hide=issues,contribs&show=reviews,prs_merged_percentage&title_color=58a6ff&icon_color=3fb950" width="500">
+<img src="https://github-stats-extended-api-gold.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true&hide=issues,contribs&show=reviews,prs_merged_percentage&title_color=58a6ff&icon_color=3fb950&commits_year=2026&number_precision=1" width="500">
 </a>
 <a href="https://github.com/hMRZQ21/"> <!-- Top Languages -->
 <img src="https://github-stats-extended-api-gold.vercel.app/api/top-langs/?username=hMRZQ21&hide_progress=true&theme=github_dark&hide_border=true&layout=donut-vertical&langs_count=5&size_weight=0.3&count_weight=0.7" width="450">
