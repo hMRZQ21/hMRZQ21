@@ -33,48 +33,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Languages & Tools:**
 
 <div align="center">
-<!-- Operating Systems -->
-<h3>Operating Systems</h3>
-<a href="https://learn.microsoft.com/en-us/windows/" target="_blank"> <!-- Windows -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" height="50"/>
-</a>
-<a href="https://developer.apple.com/macos/" target="_blank"> <!-- macOS -->
-<img style="margin: 10px" src="https://img.icons8.com/ios-filled/100/FFFFFF/mac-logo.png" alt="macOS" height="50"/>
-</a>
-<a href="https://ubuntu.com/" target="_blank"> <!-- Ubuntu -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="50"/>
-</a>
-<a href="https://www.debian.org/" target="_blank"> <!-- Debian -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="50"/>
-</a>
-<a href="https://www.linux.org/" target="_blank"> <!-- Linux -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50"/>
-</a>
-
-<!-- Programming Languages -->
-<h3>Programming Languages</h3>
-<a href="https://www.python.org/" target="_blank"> <!-- Python -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50"/>
-</a>
-<a href="https://www.java.com/" target="_blank"> <!-- Java -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
-</a>
-<a href="https://www.cplusplus.com/" target="_blank"> <!-- C++ -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank"> <!-- R -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="50"/>
-</a>
-
-<!-- Databases -->
-<h3>Databases</h3>
-<a href="https://www.mongodb.com/" target="_blank"> <!-- MongoDB -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
-</a>
-<a href="https://www.sqlite.org/" target="_blank"> <!-- SQLite -->
-<img style="margin: 10px" src="https://cdn.simpleicons.org/sqlite/white" alt="SQLite" height="50"/>
-</a>
-
 <!-- Data Science & Machine Learning -->
 <h3>Data Science & Machine Learning</h3>
 <a href="https://huggingface.co/" target="_blank"> <!-- HuggingFace -->
@@ -141,6 +99,39 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="50"/>
 </a>
 
+<!-- Programming Languages -->
+<h3>Programming Languages</h3>
+<a href="https://www.python.org/" target="_blank"> <!-- Python -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50"/>
+</a>
+<a href="https://www.java.com/" target="_blank"> <!-- Java -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
+</a>
+<a href="https://www.cplusplus.com/" target="_blank"> <!-- C++ -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank"> <!-- R -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="50"/>
+</a>
+
+<!-- Operating Systems -->
+<h3>Operating Systems</h3>
+<a href="https://learn.microsoft.com/en-us/windows/" target="_blank"> <!-- Windows -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" height="50"/>
+</a>
+<a href="https://developer.apple.com/macos/" target="_blank"> <!-- macOS -->
+<img style="margin: 10px" src="https://img.icons8.com/ios-filled/100/FFFFFF/mac-logo.png" alt="macOS" height="50"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank"> <!-- Ubuntu -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="50"/>
+</a>
+<a href="https://www.debian.org/" target="_blank"> <!-- Debian -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="50"/>
+</a>
+<a href="https://www.linux.org/" target="_blank"> <!-- Linux -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50"/>
+</a>
+
 <!-- Web Development -->
 <h3>Web Development</h3>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <!-- Flask -->
@@ -154,6 +145,15 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <!-- JavaScript -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50"/>
+</a>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<a href="https://www.mongodb.com/" target="_blank"> <!-- MongoDB -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank"> <!-- SQLite -->
+<img style="margin: 10px" src="https://cdn.simpleicons.org/sqlite/white" alt="SQLite" height="50"/>
 </a>
 
 <!-- Other Tools -->
