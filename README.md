@@ -59,11 +59,20 @@
 <a href="https://www.java.com/" target="_blank"> <!-- Java -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
 </a>
+<a href="https://www.cplusplus.com/" target="_blank"> <!-- C++ -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank"> <!-- R -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="50"/>
+</a>
 
 <!-- Databases -->
 <h3>Databases</h3>
 <a href="https://www.mongodb.com/" target="_blank"> <!-- MongoDB -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank"> <!-- SQLite -->
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" height="50"/>
 </a>
 
 <!-- Data Science & Machine Learning -->
@@ -91,6 +100,12 @@
 </a>
 <a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
+</a>
+<a href="https://plotly.com/" target="_blank"> <!-- Plotly -->
+<img style="margin: 10px" src="https://cdn.simpleicons.org/plotly/white" alt="Plotly" height="50"/>
+</a>
+<a href="https://streamlit.io/" target="_blank"> <!-- Streamlit -->
+<img style="margin: 10px" src="https://cdn.simpleicons.org/streamlit/white" alt="Streamlit" height="50"/>
 </a>
 
 <!-- Development Tools -->
