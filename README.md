@@ -17,13 +17,13 @@
 
 <p align="center">
 <a href="https://github.com/hMRZQ21/"> <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=hMRZQ21&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="500"/>
+<img src="https://github-readme-streak-stats-gold-pi-26.vercel.app?user=hMRZQ21&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="500"/>
 </a>
 <a href="https://github.com/hMRZQ21/"> <!-- Github Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="500">
+<img src="https://github-stats-extended-api-gold.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="500">
 </a>
 <a href="https://github.com/hMRZQ21/"> <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hMRZQ21&hide_progress=true&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="450">
+<img src="https://github-stats-extended-api-gold.vercel.app/api/top-langs/?username=hMRZQ21&hide_progress=true&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="450">
 </a>
 </p>
 
