@@ -102,10 +102,10 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
 </a>
 <a href="https://plotly.com/" target="_blank"> <!-- Plotly -->
-<img style="margin: 10px" src="https://cdn.simpleicons.org/plotly/white" alt="Plotly" height="50"/>
+<img style="margin: 10px" src="https://cdn.simpleicons.org/plotly" alt="Plotly" height="50"/>
 </a>
 <a href="https://streamlit.io/" target="_blank"> <!-- Streamlit -->
-<img style="margin: 10px" src="https://cdn.simpleicons.org/streamlit/white" alt="Streamlit" height="50"/>
+<img style="margin: 10px" src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" height="50"/>
 </a>
 
 <!-- Development Tools -->
