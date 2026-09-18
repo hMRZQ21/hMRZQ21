@@ -72,7 +72,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank"> <!-- SQLite -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" height="50"/>
+<img style="margin: 10px" src="https://cdn.simpleicons.org/sqlite/white" alt="SQLite" height="50"/>
 </a>
 
 <!-- Data Science & Machine Learning -->
@@ -144,7 +144,7 @@
 <!-- Web Development -->
 <h3>Web Development</h3>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <!-- Flask -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50"/>
+<img style="margin: 10px" src="https://cdn.simpleicons.org/flask/white" alt="Flask" height="50"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <!-- HTML -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50"/>
