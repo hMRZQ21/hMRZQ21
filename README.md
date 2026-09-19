@@ -77,6 +77,12 @@
 <a href="https://code.visualstudio.com/docs" target="_blank"> <!-- VScode -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50"/>
 </a>
+<a href="https://cursor.com/" target="_blank"> <!-- Cursor -->
+<img style="margin: 10px" src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" height="50"/>
+</a>
+<a href="https://claude.ai/" target="_blank"> <!-- Claude -->
+<img style="margin: 10px" src="https://cdn.simpleicons.org/claude" alt="Claude" height="50"/>
+</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <!-- Bash -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50"/>
 </a>
