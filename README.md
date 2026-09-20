@@ -87,7 +87,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50"/>
 </a>
 <a href="https://yaml.org/" target="_blank"> <!-- YAML -->
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" height="50"/>
+<img style="margin: 10px" src="https://cdn.simpleicons.org/yaml/white" alt="YAML" height="50"/>
 </a>
 
 <!-- Deployment & Homelab -->
