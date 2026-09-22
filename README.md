@@ -23,7 +23,8 @@
 <img src="https://github-stats-extended-api-gold.vercel.app/api?username=hMRZQ21&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true&hide=issues,contribs&show=reviews,prs_merged_percentage&title_color=58a6ff&icon_color=3fb950&number_precision=1" width="500">
 </a>
 <a href="https://github.com/hMRZQ21/"> <!-- Top Languages -->
-<img src="https://github-stats-extended-api-gold.vercel.app/api/top-langs/?username=hMRZQ21&hide_progress=true&theme=github_dark&hide_border=true&layout=donut-vertical&langs_count=6&size_weight=0.3&count_weight=0.7&exclude_repo=Household_Haven,Nusketch,HM2,cs470_hw,Troeger_Project,JavaFX" width="450">
+<img src="https://github-stats-extended-api-gold.vercel.app/api/top-langs/?username=hMRZQ21&hide_progress=true&theme=github_dark&hide_border=true&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=Household_Haven,HM2,cs470_hw,Troeger_Project,JavaFX" width="450">
+  <!--  Nusketch, -->
 </a>
 </p>
 
